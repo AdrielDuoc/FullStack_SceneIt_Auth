@@ -33,3 +33,7 @@ La finalidad de esta app es que los usuarios que ocupen la app puedan organizarc
 >
 >---
 ---
+
+## **autores**
+- [Javier Fuentealba](https://github.com/Javier9897)
+- [Adriel Yañez](https://github.com/AdrielDuoc)
